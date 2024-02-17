@@ -89,6 +89,7 @@ ENV/
 .ropeproject
 
 # Data
+v4.3
 *.csv
 *.parquet
 *.pkl
